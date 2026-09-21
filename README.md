@@ -42,10 +42,12 @@ Agent 侧收到的动作（正常由它自动执行，命令留给你挂定时�
 ## 安装
 
 ```bash
-# 方式一：直接放进 skills 目录
+# 方式一：克隆后放进 skills 目录
+git clone https://github.com/iguoguo/marketing-engineer.git
 cp -r marketing-engineer ~/.workbuddy/skills/
 
-# 方式二：下载 zip 解压后同样放到 ~/.workbuddy/skills/
+# 方式二：下 zip（不想碰 git 用这个）
+# https://github.com/iguoguo/marketing-engineer/releases/download/v1.0.0/marketing-engineer-skill.zip
 ```
 
 依赖只有 Python 3（标准库），无第三方包。
