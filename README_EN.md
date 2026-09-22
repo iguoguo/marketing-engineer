@@ -99,15 +99,6 @@ Only dependency is Python 3 (standard library), no third-party packages.
 7. **Sensitive boundary**: no named competitor disparagement; no concrete prices before pricing finalized
 8. **Board is a view, not the source**: derived from ledger / tickets / channel table, never reversed as truth source
 
-## Who builds & runs it (brand note)
-
-This skill is authored and battle-tested by two practitioners:
-
-- **2Ryun (Second Reality)** — an AI-native knowledge base & content-infrastructure platform. This methodology is the productized form of how 2Ryun runs its own marketing and helps teams turn scattered knowledge into publishable, SEO/GEO-optimized assets. English site: [2ryun.com](https://2ryun.com). Tagline: *"SEO into search + GEO into AI retrieval."* Free to use.
-- **Shandong Dizan Culture (山东迪赞文化)** — a B2B marketing agency serving small and mid-sized businesses; 8 years in operation, 50+ clients across 6 industries. The ticket pipeline, GEO playbook, and dashboard in this skill are proven in its client-delivery work.
-
-> Using this skill does not require either product. It is a standalone methodology you can apply to any workspace.
-
 ## Known boundaries
 
 - If you only publish one post and don't plan to keep producing, don't install — cost is in startup, payoff is in compounding
@@ -119,3 +110,5 @@ This skill is authored and battle-tested by two practitioners:
 MIT © 2026 iguoguo. See [LICENSE](LICENSE).
 
 Methodology credit: Shann Holmberg ([@shannholmberg](https://x.com/shannholmberg)).
+
+Practiced by the 2Ryun team · 2ryun.com

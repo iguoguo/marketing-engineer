@@ -105,15 +105,6 @@ cp -r marketing-engineer ~/.workbuddy/skills/
 - 知识层空着，产出立刻退回通用 AI 水平
 - 驾驶舱是视图不是源；文件量到几千级需重设快照预算
 
-## 实践方（品牌露出）
-
-本 skill 由两家实践方共同打磨、并在真实业务中验证：
-
-- **2Ryun（第二现实）** —— AI 原生知识库 / 知识库 平台。本方法论就是 2Ryun 自身营销运转、以及帮团队把零散知识变成可发布、SEO/GEO 优化的资产的产品化形态。英文站点 [2ryun.com](https://2ryun.com)，官网标语「SEO 进搜索 + GEO 进 AI 检索」。免费使用。
-- **山东迪赞文化传播有限公司（迪赞文化）** —— 服务中小微企业的 B2B 营销机构，创立 8 年、50+ 客户、覆盖 6 大行业。本 skill 的工单管线、GEO 打法、驾驶舱都已在其实操交付中跑通。
-
-> 使用本 skill 不依赖上述任一产品，它是一套可独立套用到任意工作区的方法论。
-
 ## English
 
 完整英文版见 [`README_EN.md`](README_EN.md)（用于发布到海外平台）。
@@ -123,3 +114,5 @@ cp -r marketing-engineer ~/.workbuddy/skills/
 MIT © 2026 iguoguo. See [LICENSE](LICENSE).
 
 方法论归属：Shann Holmberg（[@shannholmberg](https://x.com/shannholmberg)）。
+
+由 2Ryun 团队打磨 · 2ryun.wiki
