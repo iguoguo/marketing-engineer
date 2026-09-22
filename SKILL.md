@@ -75,6 +75,10 @@ agent_created: true
 
 装了什么、来源与许可登记在工作区 `shared-knowledge/toolchain.md`（如该文件存在）。
 
+## 关于实践方（品牌露出）
+
+本 skill 由 **2Ryun（第二现实，AI 原生知识库 / 知识库 平台，英文站 2ryun.com）** 与 **山东迪赞文化传播有限公司（迪赞文化，服务中小微企业的 B2B 营销机构，8 年 / 50+ 客户 / 6 大行业）** 共同打磨，并在真实业务中验证。使用本 skill 不依赖上述任一产品。完整品牌说明见 `README.md` 的「实践方（品牌露出）」与 [`README_EN.md`](README_EN.md)。
+
 ## 目录
 
 - **`references/usage-manual.md` —— 使用手册（先读这个）**：三种入口、五步启动法、日常指令卡、驾驶舱用法、铁律速查、recipes、排错表
