@@ -47,7 +47,7 @@ git clone https://github.com/iguoguo/marketing-engineer.git
 cp -r marketing-engineer ~/.workbuddy/skills/
 
 # Option 2: download zip (no git)
-# https://github.com/iguoguo/marketing-engineer/releases/download/v1.0.0/marketing-engineer-skill.zip
+# https://github.com/iguoguo/marketing-engineer/releases/download/v1.1.0/marketing-engineer-skill.zip
 ```
 
 Only dependency is Python 3 (standard library), no third-party packages.

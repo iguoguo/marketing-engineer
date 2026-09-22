@@ -47,7 +47,7 @@ git clone https://github.com/iguoguo/marketing-engineer.git
 cp -r marketing-engineer ~/.workbuddy/skills/
 
 # 方式二：下 zip（不想碰 git 用这个）
-# https://github.com/iguoguo/marketing-engineer/releases/download/v1.0.0/marketing-engineer-skill.zip
+# https://github.com/iguoguo/marketing-engineer/releases/download/v1.1.0/marketing-engineer-skill.zip
 ```
 
 依赖只有 Python 3（标准库），无第三方包。
